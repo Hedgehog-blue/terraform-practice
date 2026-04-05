@@ -28,6 +28,7 @@ cd infra
 terraform init
 terraform plan
 terraform apply
+```
 
 ##Notes
 - Local backend is used
