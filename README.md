@@ -30,7 +30,7 @@ terraform plan
 terraform apply
 ```
 
-##Notes
+## Notes
 - Local backend is used
 - Sensitive data is not committed
 - SSH access is restricted by IP
